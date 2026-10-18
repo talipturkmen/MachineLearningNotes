@@ -1,6 +1,6 @@
 # Machine Learning Notes
 
-> **Archived.** This is a 2018 course/learning project and is no longer maintained.
+> **Archived.** This is a 2019 course/learning project and is no longer maintained.
 
 Personal notes and code templates from the Udemy course "Machine Learning A-Z". Each folder contains a Python template (and, where available, an R version) for one step of a typical supervised-learning workflow: data preprocessing and random forest classification on small example datasets.
 
